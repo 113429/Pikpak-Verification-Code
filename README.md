@@ -2,6 +2,10 @@
 
 短效邮箱一键提取PikPak验证码
 
+## 在线测试网站：
+
+https://code.kiteyuan.info/
+
 ## 使用方法：
 
 ```python
