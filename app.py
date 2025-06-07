@@ -15,7 +15,7 @@ IMAP_SERVER = 'imap.shanyouxiang.com'
 IMAP_PORT = 993  # IMAP SSL 端口
 
 # 邮件发送者列表（用于查找验证码）
-VERIFICATION_SENDERS = ['noreply@accounts.mypikpak.com']
+VERIFICATION_SENDERS = ['postmaster@dg6.top']
 
 
 # --------------------------- IMAP 获取验证码 ---------------------------
