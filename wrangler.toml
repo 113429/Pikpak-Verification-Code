@@ -1,0 +1,4 @@
+# 设置客户端 ID 和邮箱信息
+client_id = ""  # 替换为你的 client_id
+email = ""  # 替换为你的邮箱
+refresh_token = ""  # 替换为你的 refresh_token
